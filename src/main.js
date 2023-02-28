@@ -6,6 +6,7 @@
 
 // Components
 import App from './App.vue'
+import VueMeta from 'vue-meta'
 
 // Composables
 import { createApp } from 'vue'
@@ -15,6 +16,6 @@ import { registerPlugins } from '@/plugins'
 
 const app = createApp(App)
 
-registerPlugins(app)
+registerPlugins(app,VueMeta)
 
 app.mount('#app')
