@@ -13,7 +13,32 @@
 
       <div class="py-14" />
       <v-row class="d-flex align-center justify-center">
-        <v-col cols="auto"><p class="text-justify">Jestem HR-owcem z 15-letnim doświadczeniem pracy z ludźmi. Jakiś czas temu postanowiłam skupić się bardziej na obszarze life coachingu. Z wykształcenia jestem pedagogiem i psychologiem, a obszary rozwojowe, podnoszące samoświadomość były mi zawsze bliskie; zwłaszcza samorozwój kobiet oraz wspieranie ich w podążaniu własną drogą i odkrywanie siebie. Specjalizuję się w obszarach coachingu relacji, life coachingu, coachingu kariery i biznesowym. Pracuję w nastawieniu na cele Klienta, skupiam się na jego mocnych stronach, możliwościach i potrzebach.
+        <v-col cols="auto">
+        
+        
+        
+ <p class="text-justify font-weight-bold ">Patrz przed siebie… Idź swoją drogą</p>
+ <p class="text-justify">To hasło chyba najlepiej oddaje moje podejście do życia i tego, jak chcę pracować z innymi oraz to, co chciałabym im przekazać. Nasza droga nie musi być prosta: pojawiają się na niej zakręty, czasami rozwidlenia, na których możemy wybrać niewłaściwy kierunek. Czasami jest wyboista, błotnista albo piaskowa. Wówczas trudniej jest iść. Może pomóc nam wówczas uważność na szczegóły dookoła nas: krople rosy na liściach paproci, koty leżąca na przydrożnej ścieżce pod drzewem, turkusowe żuki czy drzewa uginające się pod ciężarem owoców. A co można poczuć? Niepokój, związany z czarnymi chmurami zbierającymi się nad horyzontem, albo radość z pojawiających się pierwszych promieni słońca, które wychyla się po długich dniach szarości. 
+Zmieniają się pory roku, pogoda…<br>
+Drogowskazów czasem brakuje albo są nieczytelne<br>
+A My cały czas idziemy… Wolniej, szybciej, czasami siadamy odpocząć</p>
+
+ <p class="text-justify font-weight-bold">A gdzie jest Twoja droga? W mieście? W lesie? Co ją teraz otacza? Co ją teraz pokrywa? Co jest dookoła?</p>
+ <p class="text-justify">Z przyjemnością i chęcią potowarzyszę Ci w tej niej tak długo, jak będzie to potrzebne; tak długo jak będziesz chciała.</p>
+
+ <p class="text-justify">Świadomie zdecydowałam się na pracę tylko z kobietami, gdyż jest mi ona po prostu bliższa. </p>
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <p class="text-justify font-weight-bold ">Jestem HR-owcem z 15-letnim doświadczeniem pracy z ludźmi. Jakiś czas temu postanowiłam skupić się bardziej na obszarze life coachingu. Z wykształcenia jestem pedagogiem i psychologiem, a obszary rozwojowe, podnoszące samoświadomość były mi zawsze bliskie; zwłaszcza samorozwój kobiet oraz wspieranie ich w podążaniu własną drogą i odkrywanie siebie. Specjalizuję się w obszarach coachingu relacji, life coachingu, coachingu kariery i biznesowym. Pracuję w nastawieniu na cele Klienta, skupiam się na jego mocnych stronach, możliwościach i potrzebach.
         <br>
         <br>Ada Huber / Coaching Warszawa  
         </p></v-col>
