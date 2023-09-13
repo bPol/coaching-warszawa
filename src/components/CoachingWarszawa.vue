@@ -1,16 +1,17 @@
 <template>
-  <v-container class="fill-height">
-    <v-responsive class="d-flex align-center text-center fill-height">
-      <v-img
-        contain
-        height="300"
-        src="@/assets/logo.svg"
-      />
 
-      <div class="text-body-2 font-weight-light mb-n1">Zapraszam do</div>
+<v-img
+          contain
+          height="300"
+          src="@/assets/logo.svg"
+        />
+  
+        <div class="text-body-2 font-weight-light mb-n1">Zapraszam do</div>
+  
+        <h1 class="text-h2 font-weight-bold">Coaching Warszawa {{ $route.path}}</h1>
 
-      <h1 class="text-h2 font-weight-bold">Coaching Warszawa</h1>
 
+        
       <div class="py-14" />
       <v-row class="d-flex align-center justify-center">
         <v-col cols="auto">
@@ -64,13 +65,27 @@ A My cały czas idziemy… Wolniej, szybciej, czasami siadamy odpocząć</p>
             Rozpocznij coaching *
           </v-btn>
           <p>*<i>Pierwsza sesja w CoachingWarszawa.com jest bezpłatna</i></p>
+          <Article  
+          v-for="post in posts"
+          :key="post.id"
+          :title="post.title"    
+          :slug="post.slug"      
+          />
         </v-col>
 
       </v-row>
-    </v-responsive>
-  </v-container>
+
 </template>
 
 <script setup>
-  //
+import Article from './Article.vue'
+import { ref } from 'vue'
+const posts = ref([
+  { id: 1, title: 'My journey with Vue', slug: 'slug1' },
+  { id: 2, title: 'Blogging with Vue', slug: 'slug2' },
+  { id: 3, title: 'Why Vue is so fun', slug: 'slug3' }
+])
+
+
+
 </script>
